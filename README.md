@@ -9,7 +9,10 @@ This is one of projects in Codecademy's full-stack skill path course. By followi
 The API enable you to manage your 'minions', your brilliant 'million dollar ideas', and to handle all the annoying meetings that keep getting added to your busy schedule.
 
 Here is a video demonstration of the final app here:
-<img src="https://user-images.githubusercontent.com/64364271/166120774-d03959f0-20c2-4d94-b95f-f00995ab8eb2.gif" alt="boss machine image"  width="250" />
+
+
+
+<img src="https://user-images.githubusercontent.com/64364271/166120774-d03959f0-20c2-4d94-b95f-f00995ab8eb2.gif" alt="boss machine image"  height="300" />
 
 ## How to Use
 
