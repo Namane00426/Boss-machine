@@ -9,11 +9,7 @@ This is one of projects in Codecademy's full-stack skill path course. By followi
 The API enable you to manage your 'minions', your brilliant 'million dollar ideas', and to handle all the annoying meetings that keep getting added to your busy schedule.
 
 Here is a video demonstration of the final app here:
-
-<video width="100%" height="100%" controls>
-   <source src="https://user-images.githubusercontent.com/64364271/166120774-d03959f0-20c2-4d94-b95f-f00995ab8eb2.gif" type="video/mp4">
- The markdown processor does not support the video tag.
-</video>
+<img src="https://user-images.githubusercontent.com/64364271/166120774-d03959f0-20c2-4d94-b95f-f00995ab8eb2.gif" alt="boss machine image"  width="250" />
 
 ## How to Use
 
